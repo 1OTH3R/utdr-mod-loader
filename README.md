@@ -10,7 +10,7 @@ Built for flexibility, style, and ease of use.
 * Launch UNDERTALE/DELTARUNE mods and fangames from a single hub
 * Display custom icons, descriptions, and images for each mod
 * Supports different game types (All UT/DR versions & fangames)
-* Hand-made custom UI by a cool huy (not to be confused with [Papyrus](https://undertale.fandom.com/wiki/Papyrus)
+* Hand-made custom UI by a cool huy (not to be confused with [Papyrus](https://undertale.fandom.com/wiki/Papyrus))
 * Clean, DELTARUNE-style UI using the familiar font of Determination Mono (credit to the creator of [https://saveeditor.spamton.com](https://saveeditor.spamton.com/))
 
 ---
