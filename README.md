@@ -6,7 +6,7 @@ Built for flexibility, style, and ease of use.
 ---
 
 ## ⚡ Quick Start
-1. [Install Python](https://www.python.org/downloads/)
+1. Install [Python](https://www.python.org/downloads/)
 2. Run: `python -m pip install psutil`
 3. Launch `mod_server.py`
 4. Edit `mods.json` to add your mods (see below)
