@@ -90,8 +90,8 @@ A: Oftentimes, this is due to either of these issues:
 <br/>If you're still encountering this issue, then try temporarily using a new, unchanged `mods.json` and see if that works. If it still doesn't, then you can put your original `mods.json` back into a fresh install of everything else.
 <br/>
 <br/>
-### Q: Will you ever add in the UNDERTALE/DELTARUNE games to make it easier to make mods? (`auto-adding games`)
-A: No, and that's for one reason. Well, technically two, but they go hand-in-hand, with 'they' being piracy and legal issues. In order to prevent piracy, I cannot directly add in any paid UNDERTALE or DELTARUNE games, as it would risk me becoming a pirate, and in order to prevent general legal issues, I cannot directly distribute copies of any games as it often breaks EULAs and Copyright, which is _not_ stuff I want to get into. 
+### Q: Will you ever add in the UNDERTALE/DELTARUNE games to make it easier to make mods? (`will you add piracy`)
+A: No. To respect copyright and avoid piracy issues, this launcher **does not include any official UNDERTALE or DELTARUNE game files.** Users must provide their own legally obtained game copies. 
 ### Q: I want to make custom art for the icons and main image! How do I do that? (`make custom art`)
 A: For the icons specifically, you can technically use any image, but I have a base image (`base.png`) that you can use for a more DELTARUNE-style icon. For any of the images, though, you can just draw it and set it as that mod's image through `mods.json`.
 <br/>
