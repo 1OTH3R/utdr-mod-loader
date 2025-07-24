@@ -72,15 +72,15 @@ ___TIP:___ *If it crashes or says, "Failed to load mods" after you modify mods.j
 
 ## 🔧 Troubleshooting/Q&A
 
-### Q: Whenever I try to install `psutil`, my CMD gives an error message saying that `pip` doesn't exist! Can you help?
+### Q: Whenever I try to install `psutil`, my CMD gives an error message saying that `pip` doesn't exist! Can you help? (`psutil won't install`)
 A: Make sure that `pip` is added to your path, and try using `python -m pip install psutil` instead of just `pip install psutil`. If the issue persists, try reinstalling Python with the rules above.
 <br/>
 <br/>
-### Q: I just deleted/replaced an image from the `mod images` tab, but every time I boot up the mod loader, the image still shows! Can you fix it?
+### Q: I just deleted/replaced an image from the `mod images` tab, but every time I boot up the mod loader, the image still shows! Can you fix it? (`image not updating`)
 A: This issue occurs due to the way that the app runs, as it's actually just a Chrome webpage. To fix it, press `Crtl+H` while in Chrome, then click `Delete browsing data` and make sure that `Cached images and files` is selected.
 <br/>
 <br/>
-### Q: My mods aren't loading at all, and I spent a lot of time on adding the information! How can I fix this?
+### Q: My mods aren't loading at all, and I spent a lot of time on adding the information! How can I fix this? (`mods not showing`)
 A: Oftentimes, this is due to either of these issues:
 <br/>
 <br/>1) When inputting the folder's path, you used a backslash (`\`), which breaks due to the way json formatting works. Instead, use forward slashes (`/`) or two backslashes (`\\`) to fix the issue.
@@ -90,23 +90,23 @@ A: Oftentimes, this is due to either of these issues:
 <br/>If you're still encountering this issue, then try temporarily using a new, unchanged `mods.json` and see if that works. If it still doesn't, then you can put your original `mods.json` back into a fresh install of everything else.
 <br/>
 <br/>
-### Q: Will you ever add in the UNDERTALE/DELTARUNE games to make it easier to make mods?
+### Q: Will you ever add in the UNDERTALE/DELTARUNE games to make it easier to make mods? (`auto-adding games`)
 A: No, and that's for one reason. Well, technically two, but they go hand-in-hand, with 'they' being piracy and legal issues. In order to prevent piracy, I cannot directly add in any paid UNDERTALE or DELTARUNE games, as it would risk me becoming a pirate, and in order to prevent general legal issues, I cannot directly distribute copies of any games as it often breaks EULAs and Copyright, which is _not_ stuff I want to get into. 
-### Q: I want to make custom art for the icons and main image! How do I do that?
+### Q: I want to make custom art for the icons and main image! How do I do that? (`make custom art`)
 A: For the icons specifically, you can technically use any image, but I have a base image (`base.png`) that you can use for a more DELTARUNE-style icon. For any of the images, though, you can just draw it and set it as that mod's image through `mods.json`.
 <br/>
 <br/>
-### Q: This has a bunch of different file types, and all of them look sketchy! Is this safe to use?
+### Q: This has a bunch of different file types, and all of them look sketchy! Is this safe to use? (`safe to use`)
 A: I know it's really weird, but I didn't include any malware or ransomware. A lot of the backend of this was just me working with ChatGPT, so I just kinda went with whatever.
 <br/>
 <br/>
-### Q: Why did you even make this? Why should I even use this over Luigi (UTMC)'s UT/DR Mod Manager?
+### Q: Why did you even make this? Why should I even use this over Luigi (UTMC)'s UT/DR Mod Manager? (`tell me why`)
 A: Despite the fact that I found it to be a fun project to make, the main reason to use it over Luigi's was that ___when I put the Undertale/Deltarune Mod Manager by Luigi (UTMC) through VirusTotal, it said it had a Trojan virus in it.___ So yeah, no, I think I'll stick with my own mod launcher, thanks.
 <br/>
 <br/>
-### Q: I have another issue that isn't on this list! What do I do?
+### Q: I have another issue that isn't on this list! What do I do? (`other issue`)
 A: The most simple thing you can do is try a fresh install again and re-write your `mods.json` for all of your mods. If it still persists, add an issue in `Issues` on this GitHub page with the `bug` tag.
 <br/>
 <br/>
-### I have a suggestion for this mod loader! Where do I put that?
+### I have a suggestion for this mod loader! Where do I put that? (`suggestion`)
 A: If you have any suggestions, place them under the `Issues` tab in GitHub for now, and just make sure to add the `enhancement/suggestion` tag.
