@@ -73,6 +73,7 @@ A: This issue occurs due to the way that the app runs, as it's actually just a C
 A: Oftentimes, this is due to either of these issues:
 <br/>
 <br/>1) When inputting the folder's path, you used a backslash (`\`), which breaks due to the way json formatting works. Instead, use forward slashes (`/`) or two backslashes (`\\`) to fix the issue.
+<br/>
 <br/>2) You accidentally messed up the formatting of the file. If this is the case, then look through the file and make sure everything is in the right place, and that the square brackets are outside of the curly ones*. And finally, don't forget about the commas.
 <br/>
 <br/>If you're still encountering this issue, then try temporarily using a new, unchanged `mods.json` and see if that works. If it still doesn't, then you can put your original `mods.json` back into a fresh install of everything else.
