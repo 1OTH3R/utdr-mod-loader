@@ -86,7 +86,7 @@ A: For the icons specifically, you can technically use any image, but I have a b
 <br/>
 <br/>
 ### Q: I have another issue that isn't on this list! What do I do?
-A: The most simple thing you can do is try a fresh install again and re-write your `mods.json` for all of your mods. If it still persists, add an issue in `Issues` on this GitHub page.
+A: The most simple thing you can do is try a fresh install again and re-write your `mods.json` for all of your mods. If it still persists, add an issue in `Issues` on this GitHub page with the `bug` tag.
 
 ### I have a suggestion for this mod loader! Where do I put that?
-A: If you have any suggestions, place them under the `Issues` tab in GitHub for now, and just make sure to mark it as a suggestion.
+A: If you have any suggestions, place them under the `Issues` tab in GitHub for now, and just make sure to add the `enhancement/suggestion` tag.
