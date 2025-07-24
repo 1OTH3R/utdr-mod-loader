@@ -28,7 +28,8 @@ Built for flexibility, style, and ease of use.
 
 *If you've already installed Python for other projects, press Windows+R and type `sysdm.cpl`. From there, go to Advanced > Environment Variables > System Variables and verify that `C:\Users\_YOUR_USERNAME_HERE_\AppData\Local\Programs\Python\Python###\` has the variable `PATH` attached to it (name may vary based off of what version you got; ie: Python313). If it still doesn't work, then you might just want to reinstall the latest version of Python.*
 
-From here, just open up mod_server.py or make a shortcut that does it for you (to help make it look more like an app).
+From there, just open up mod_server.py or make a shortcut that does it for you (to help make it look more like an app).
+
 ---
 
 ## 💻 How to Add Mods
