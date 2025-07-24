@@ -11,7 +11,7 @@ Built for flexibility, style, and ease of use.
 * Display custom icons, descriptions, and images for each mod
 * Supports different game types (All UT/DR versions & fangames)
 * Hand-made custom UI by a cool guy (not to be confused with [Papyrus](https://undertale.fandom.com/wiki/Papyrus))
-* Clean, DELTARUNE-style UI using Determination Mono (credit to [Nisha Wolfe](https://saveeditor.spamton.com/), the maker of the Spamton Save Editor)
+* Clean, DELTARUNE-style UI using Determination Mono (credit to [Nisha Wolfe](https://saveeditor.spamton.com/), maker of the Spamton Save Editor)
 
 ---
 
