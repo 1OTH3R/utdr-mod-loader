@@ -28,6 +28,7 @@ Built for flexibility, style, and ease of use.
 
 *If you've already installed Python for other projects, press Windows+R and type `sysdm.cpl`. From there, go to Advanced > Environment Variables > System Variables and verify that `C:\Users\_YOUR_USERNAME_HERE_\AppData\Local\Programs\Python\Python###\` has the variable `PATH` attached to it (name may vary based off of what version you got; ie: Python313). If it still doesn't work, then you might just want to reinstall the latest version of Python.*
 
+From here, just open up mod_server.py or make a shortcut that does it for you (to help make it look more like an app).
 ---
 
 ## 💻 How to Add Mods
@@ -85,8 +86,17 @@ A: No, and that's for one reason. Well, technically two, but they go hand-in-han
 A: For the icons specifically, you can technically use any image, but I have a base image (`base.png`) that you can use for a more DELTARUNE-style icon. For any of the images, though, you can just draw it and set it as that mod's image through `mods.json`.
 <br/>
 <br/>
+### Q: This has a bunch of different file types, and all of them look sketchy! Is this safe to use?
+A: I know it's really weird, but I didn't include any malware or ransomware. A lot of the backend of this was just me working with ChatGPT, so I just kinda went with whatever.
+<br/>
+<br/>
+### Q: Why did you even make this? Why should I even use this over Luigi (UTMC)'s UT/DR Mod Manager?
+A: Despite the fact that I found it to be a fun project to make, the main reason to use it over Luigi's was that ___when I put the Undertale/Deltarune Mod Manager by Luigi (UTMC) through VirusTotal, it said it had a Trojan virus in it.___ So yeah, no, I think I'll stick with my own mod launcher, thanks.
+<br/>
+<br/>
 ### Q: I have another issue that isn't on this list! What do I do?
 A: The most simple thing you can do is try a fresh install again and re-write your `mods.json` for all of your mods. If it still persists, add an issue in `Issues` on this GitHub page with the `bug` tag.
-
+<br/>
+<br/>
 ### I have a suggestion for this mod loader! Where do I put that?
 A: If you have any suggestions, place them under the `Issues` tab in GitHub for now, and just make sure to add the `enhancement/suggestion` tag.
