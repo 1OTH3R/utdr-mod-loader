@@ -105,7 +105,7 @@ A: [Shayy](https://www.youtube.com/@ShayyTV?sub_confirmation=1) is a really insp
 <br/>
 <br/>
 ### Q: Why did you even make this? Why should I even use this over Luigi (UTMC)'s UT/DR Mod Manager? (`tell me why`)
-A: Despite the fact that I found it to be a fun project to make, the main reason to use it over Luigi's was that ___when I put the Undertale/Deltarune Mod Manager by Luigi (UTMC) through VirusTotal, it said it had a Trojan virus in it.___ So yeah, no, I think I'll stick with my own mod launcher, thanks.
+A: Despite the fact that I found it to be a fun project to make, the main reason to use it over Luigi's was that ___when I put the Undertale/Deltarune Mod Manager by Luigi (UTMC) through VirusTotal, it said it had a Trojan virus in it.___ **This does not mean you should hate or slander Luigi (UTMC), as there is also the potential for the virus checker to have been sipping too much "free pool water", if you will. Once again, do _NOT_ hate, slander, cyberbully, or perform any other rude actions towards Luigi (UTMC) for this, as that will NOT help the cause and is unacceptable. Instead, if you so wish, you can try to contact Luigi (UTMC) about this issue politely to help resolve the conflict faster.**
 <br/>
 <br/>
 ### Q: I have another issue that isn't on this list! What do I do? (`other issue`)
