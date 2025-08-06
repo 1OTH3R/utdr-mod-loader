@@ -1,6 +1,6 @@
-# UTDR Mod Loader
+# UTDR Mod Manager
 
-**A simple yet effective mod loader for UNDERTALE and DELTARUNE mods, as well as fangames!**  
+**A simple yet effective mod manager for UNDERTALE and DELTARUNE mods, as well as fangames!**  
 Built for flexibility, style, and ease of use.
 
 ---
@@ -76,7 +76,7 @@ ___TIP:___ *If it crashes or says, "Failed to load mods" after you modify mods.j
 A: Make sure that `pip` is added to your path, and try using `python -m pip install psutil` instead of just `pip install psutil`. If the issue persists, try reinstalling Python with the rules above.
 <br/>
 <br/>
-### Q: I just deleted/replaced an image from the `mod images` tab, but every time I boot up the mod loader, the image still shows! Can you fix it? (`image not updating`)
+### Q: I just deleted/replaced an image from the `mod images` tab, but every time I boot up the mod manager, the image still shows! Can you fix it? (`image not updating`)
 A: This issue occurs due to the way that the app runs, as it's actually just a Chrome webpage. To fix it, press `Crtl+H` while in Chrome, then click `Delete browsing data` and make sure that `Cached images and files` is selected.
 <br/>
 <br/>
@@ -114,5 +114,5 @@ A: Despite the fact that I found it to be a fun project to make, the main reason
 A: The most simple thing you can do is try a fresh install again and re-write your `mods.json` for all of your mods. If it still persists, add an issue in `Issues` on this GitHub page with the `bug` tag.
 <br/>
 <br/>
-### I have a suggestion for this mod loader! Where do I put that? (`suggestion`)
+### I have a suggestion for this mod manager! Where do I put that? (`suggestion`)
 A: If you have any suggestions, place them under the `Issues` tab in GitHub for now, and just make sure to add the `enhancement/suggestion` tag.
